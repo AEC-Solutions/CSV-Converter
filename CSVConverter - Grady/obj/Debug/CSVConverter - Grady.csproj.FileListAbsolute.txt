@@ -1,0 +1,13 @@
+C:\Users\Admin\OneDrive\Development\AutoCAD Add-Ons\Plug-Ins\CSVConverter - Grady\CSVConverter - Grady\obj\Debug\CSVConverter - Grady.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\Development\AutoCAD Add-Ons\Plug-Ins\CSVConverter - Grady\CSVConverter - Grady\obj\Debug\CSVConverter___Grady.Form1.resources
+C:\Users\Admin\OneDrive\Development\AutoCAD Add-Ons\Plug-Ins\CSVConverter - Grady\CSVConverter - Grady\obj\Debug\CSVConverter___Grady.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Development\AutoCAD Add-Ons\Plug-Ins\CSVConverter - Grady\CSVConverter - Grady\obj\Debug\CSVConverter - Grady.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\Development\AutoCAD Add-Ons\Plug-Ins\CSVConverter - Grady\CSVConverter - Grady\obj\Debug\CSVConverter - Grady.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Development\AutoCAD Add-Ons\Plug-Ins\CSVConverter - Grady\CSVConverter - Grady\bin\Debug\CSVConverter - Grady.exe.config
+C:\Users\Admin\OneDrive\Development\AutoCAD Add-Ons\Plug-Ins\CSVConverter - Grady\CSVConverter - Grady\bin\Debug\CSVConverter - Grady.exe
+C:\Users\Admin\OneDrive\Development\AutoCAD Add-Ons\Plug-Ins\CSVConverter - Grady\CSVConverter - Grady\bin\Debug\CSVConverter - Grady.pdb
+C:\Users\Admin\OneDrive\Development\AutoCAD Add-Ons\Plug-Ins\CSVConverter - Grady\CSVConverter - Grady\bin\Debug\EPPlus.dll
+C:\Users\Admin\OneDrive\Development\AutoCAD Add-Ons\Plug-Ins\CSVConverter - Grady\CSVConverter - Grady\bin\Debug\EPPlus.xml
+C:\Users\Admin\OneDrive\Development\AutoCAD Add-Ons\Plug-Ins\CSVConverter - Grady\CSVConverter - Grady\obj\Debug\CSVConverter - Grady.exe
+C:\Users\Admin\OneDrive\Development\AutoCAD Add-Ons\Plug-Ins\CSVConverter - Grady\CSVConverter - Grady\obj\Debug\CSVConverter - Grady.pdb
+C:\Users\Admin\OneDrive\Development\AutoCAD Add-Ons\Plug-Ins\CSVConverter - Grady\CSVConverter - Grady\obj\Debug\CSVConverter - Grady.csproj.CopyComplete
